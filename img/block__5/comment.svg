@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 909 433" width="909" height="433">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.6;fill: #ffffff } 
+		.shp1 { opacity: 0.8;fill: #ffffff } 
+		.shp2 { fill: #ffffff;stroke: #000000;stroke-opacity:0.08 } 
+	</style>
+	<g id="custome comments">
+		<g id="comment">
+			<path id="3rd" class="shp0" d="M43 88L866 88C871.52 88 876 92.48 876 98L876 335C876 340.52 871.52 345 866 345L43 345C37.48 345 33 340.52 33 335L33 98C33 92.48 37.48 88 43 88Z" />
+			<path id="2nd" class="shp1" d="M69 62L839 62C844.52 62 849 66.48 849 72L849 361C849 366.52 844.52 371 839 371L69 371C63.48 371 59 366.52 59 361L59 72C59 66.48 63.48 62 69 62Z" />
+			<path id="1st" class="shp2" d="M99 41L809 41C814.52 41 819 45.48 819 51L819 382C819 387.52 814.52 392 809 392L99 392C93.48 392 89 387.52 89 382L89 51C89 45.48 93.48 41 99 41Z" />
+		</g>
+	</g>
+</svg>
